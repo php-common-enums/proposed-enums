@@ -8,7 +8,7 @@ Following these guidelines helps to communicate that you respect the time of the
 
 Please create a GitHub Issue in the repository of the enum that has the bug.
 
-# How to fix a bug of improve an enum
+# How to fix a bug or improve an enum
 
 Please create a GitHub Pull Request in the repository of the enum that you want to fix or improve.
 
