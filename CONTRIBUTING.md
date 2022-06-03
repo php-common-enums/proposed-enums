@@ -22,6 +22,10 @@ The proposed enum must:
 - have the potential for common use,
 - be relatively stable and not subject to frequent change.
 
+# Receiving credit for contributing
+
+If you contribute a new enum, you will be credited in the README.md of the library.
+
 # Coding standards
 
 If you use [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer), then apply the [Symfony rules](https://cs.symfony.com/doc/ruleSets/Symfony.html) to the enum class.
